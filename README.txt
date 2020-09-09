@@ -1,13 +1,11 @@
 
-TITLE: 
-Fox - 100% Fully Responsive One Page HTML5 Bootstrap 4 Template
+
+TITLE: Pasmani website. Fully responsive one page 
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
-
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+DESIGNED & DEVELOPED by Ildingo Designers
+Moses ildingo
+Juma
 
 
 CREDITS:
@@ -26,7 +24,3 @@ http://pixelcog.github.io/parallax.js/
 
 Wow
 https://wowjs.uk
-
-Demo Images:
-http://unsplash.com
-
